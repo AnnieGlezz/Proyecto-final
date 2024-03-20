@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    padding-inline: 0.5rem;
+    padding-block: 2rem;
+}
+
+.loaderContainer{
+    display: flex;
+    justify-content: center;
+}

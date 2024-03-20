@@ -1,0 +1,25 @@
+.btn{
+    padding: 1ch;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border: none;
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+    width: 4ch;
+    cursor: pointer;
+}
+
+.input{
+    margin-inline: 1.5ch;
+    padding: 1ch;
+    width: 4ch;
+    font-size: 1.3rem;
+    border-radius: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
